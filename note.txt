@@ -1,0 +1,1 @@
+Generate : constructor, getter, setter use shortcut -----> ALT+INSERT
